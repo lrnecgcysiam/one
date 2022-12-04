@@ -1,7 +1,10 @@
 ---
 title: Can you make money on Social Media?
-description: 甘音 🎂
+description: レトロ・ゲーム・キャンプ
 layout: layouts/post.njk
+tags:
+  - public post
+  - online business
 ---
 
 ### What are your future plans for your shop?
