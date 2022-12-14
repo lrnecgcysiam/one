@@ -5,6 +5,7 @@ layout: layouts/post.njk
 tags:
   - public post
   - online business
+  - NEW POST
 ---
 
 [IMG-DB5-FB7065-B40-1.jpg](https://postimg.cc/ykSHJDy7)

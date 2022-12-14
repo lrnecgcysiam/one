@@ -5,6 +5,7 @@ layout: layouts/post.njk
 tags:
   - public post
   - online business
+  - NEW POST
 ---
 
 You might have heard about my friend Mike who comes with me to Japan.
