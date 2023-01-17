@@ -8,7 +8,7 @@ layout: layouts/post.njk
 
 ## Alfred,
 
-Hey Alfred I am going to place the QR Code here since I can not sent you MMS Messages for some reason.
+ I am going to place the QR Code here since I can not sent you MMS Messages for some reason.
 
 --<cite>クリス</cite>
 
